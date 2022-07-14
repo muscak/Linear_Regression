@@ -1,1 +1,2 @@
-
+- SAT scores which includes critical reading, mathematics and writing in highschool 
+- GPA (Grade Point Average) which is a score that you get at graduation from universtiy
